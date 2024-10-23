@@ -1,7 +1,7 @@
 #include<stdio.h>
 main()
 {
-int x=4,y=7;
+int x=5,y=6;
 
 printf("Before swap: %d,%d\n",x,y);
 swap(x,y);
