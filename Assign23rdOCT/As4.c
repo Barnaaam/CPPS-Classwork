@@ -8,7 +8,7 @@ struct stud {
 void show(struct stud *m);
 
 int main() {
-    struct stud s1 = {"Alex", 56.0};
+    struct stud s1 = {"Roman", 65.2};
     show(&s1); 
     return 0;
 }
